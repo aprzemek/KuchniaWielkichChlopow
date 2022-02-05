@@ -7,7 +7,7 @@ Aplikacja Webowa z przepisami kulinarnymi które można:
 4. Usunąc
 
 Stworzona w wykorzystaniem Full-stack MERN:
-- React
+- React(+materials-ui)
 - Node.js 
 - Express 
 - MongoDB
